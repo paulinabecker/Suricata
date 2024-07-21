@@ -4,7 +4,10 @@ Proyecto individual
 
 Proyecto finalizado
 
-Acceso al proyecto: https://github.com/paulinabecker/Suricata
+Acceso al proyecto GitHub: https://github.com/paulinabecker/Suricata
+
+Acceso al proyecto Netlify: https://tienda-suricata.netlify.app/
+
 
 Descripción:
 
